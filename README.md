@@ -1,5 +1,5 @@
 # All Things Markdown
-All the resources and files I've used for my presentations about Markdown
+Resources and files I've used in my presentations about Markdown.
 
 ## My Presentations about Markdown
 
