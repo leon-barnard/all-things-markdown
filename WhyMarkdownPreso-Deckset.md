@@ -25,7 +25,7 @@ footer: @leonbarnard, #writethedocsSF
 
 ## Markdown(-like) syntax is everywhere
 
-![inline](slack.png)
+![inline](images/slack.png)
 
 * Slack
 * Pivotal
@@ -49,19 +49,19 @@ learn it once, use it everywhere
 
 ---
 
-![fit](sample.png)
+![fit](images/sample.png)
 
 ^ It's a plain text file. No special software required to view it.
 
 ---
 
-![fit](sample-annotated.png)
+![fit](images/sample-annotated.png)
 
 ^ Here's the first part of what it is. The syntax.
 
 ---
 
-![fit](preview.png)
+![fit](images/preview.png)
 
 ^ Here's the second part. The software-rendered HTML.
 
@@ -84,7 +84,7 @@ Now I'll go into more detail
 
 ### You can learn it in an afternoon. 
 
-![right fit](markdown-book.jpg)
+![right fit](images/markdown-book.jpg)
 
 ^ easy to read and write also means easy to learn
 
@@ -108,8 +108,8 @@ From "Writing in Markdown"
 
 ## <HTML> vs. Markdown
 
-![fit original](html-sample.png)
-![fit original](markdown-sample.png)
+![fit original](images/html-sample.png)
+![fit original](images/markdown-sample.png)
 
 ---
 
@@ -152,13 +152,13 @@ Sites that support Markdown use **templates** (built in Ruby, PHP, Go, etc.) tha
 
 ---
 
-![fit](template-structure.png)
+![fit](images/template-structure.png)
 
 ---
 
 # Tip: Use it to organize your thoughts
 
-![](outline.png)
+![](images/outline.png)
 
 ^ Not just for writing documents.
 
@@ -168,7 +168,7 @@ Sites that support Markdown use **templates** (built in Ruby, PHP, Go, etc.) tha
 
 # 😲*This presentation* is actually markdown
 
-![](presentation.png)
+![](images/presentation.png)
 
 ---
 
@@ -176,7 +176,7 @@ Sites that support Markdown use **templates** (built in Ruby, PHP, Go, etc.) tha
 
 Keyboard shortcuts and live preview means you don't need to memorize all the syntax. 
 
-![inline](help.png)
+![inline](images/help.png)
 
 ^ And code editor-like behavior when you select text. Can immediately convert it rather than overwriting it.
 
@@ -196,9 +196,9 @@ Keyboard shortcuts and live preview means you don't need to memorize all the syn
 
 ---
 
-![fit](IMG_4325.jpg)
-![fit](IMG_4326.jpg)
-![fit](IMG_4327.jpg)
+![fit](images/IMG_4325.jpg)
+![fit](images/IMG_4326.jpg)
+![fit](images/IMG_4327.jpg)
 
 ^ Discussion from Tuesday about editor support for Sphinx and RST
 
